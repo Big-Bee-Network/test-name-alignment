@@ -1,0 +1,16 @@
+scientificName
+Andrena angustitarsata Viereck, 1904
+Andrena anisochlora Cockerell, 1936
+Andrena auricoma Smith, 1879
+Andrena baeriae Timberlake, 1941
+Andrena caerulea Smith, 1879
+Andrena candida Smith, 1879
+Andrena chlorogaster Viereck, 1904
+Andrena chlorura Cockerell, 1916
+Andrena duboisi Timberlake, 1951
+Andrena gnaphalii Cockerell, 1938
+Andrena hypoleuca Cockerell, 1939
+Andrena macrocephala Cockerell, 1916
+Andrena nigrocaerulea Cockerell, 1897
+Andrena oenotherae Timberlake, 1937
+Andrena pallidifovea (Viereck, 1904)
